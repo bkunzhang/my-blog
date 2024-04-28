@@ -23,6 +23,10 @@ public目录下生成的源码不用提交，使用action可以自动生成
 
 # 主题
 theme: stellar 挺好看的
+<https://github.com/xaoxuu/hexo-theme-stellar.git>
+
+# gitmodules使用
+主题源码不用整个下载到themes目录下，[[../../.gitmodules]]
 
 # 访问我的
 <https://kkkn2024.github.io/>
